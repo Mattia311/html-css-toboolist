@@ -74,12 +74,52 @@ h3{
     border-radius: 10px;
 
 }
-.ciao{
-    
-}
-.ciao1 {
-    
-}
 ul {
     list-style-type: none;
 }
+.editorial{
+    display: inline-block ;
+    padding: 3px 7px;
+    background-color: rgb(0, 204, 255);
+    border-radius: 10px;
+    color: white;
+}
+.q1goals{
+    display: inline-block ;
+    padding: 3px 7px;
+    background-color: rgb(212, 0, 255);
+    border-radius: 10px;
+    color: white;
+
+}
+.recruiting{
+
+    display: inline-block ;
+    padding: 3px 7px;
+    background-color: rgb(0, 255, 76);
+    border-radius: 10px;
+    color: white;
+}
+.mobile {
+    display: inline-block ;
+    padding: 3px 7px;
+    background-color: rgb(255, 145, 0);
+    border-radius: 10px;
+    color: white;
+}
+.web{
+    display: inline-block ;
+    padding: 3px 7px;
+    background-color: rgb(255, 0, 179);
+    border-radius: 10px;
+    color: white;
+}
+.sales {
+    display: inline-block ;
+    padding: 3px 7px;
+    background-color: rgb(187, 255, 0);
+    border-radius: 10px;
+    color: white;
+}
+    
+    
