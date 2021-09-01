@@ -1,10 +1,43 @@
+.body {
+    background-color:#F6F8F9;
+    margin: 0px;
+}
+
+
+
+
 .site_header {
     background-image: url(./img/logo\ copia.png);
     background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-color: white;
+   
+    
     
 }
 h1 {
     margin-left: 60px;
     padding-top: 10px;
     padding-bottom: 20px;
+    
+    
+    
+}
+.site_main {
+    text-align: center;
+    margin: auto;
+    background-color:white;
+    
+    
+    
+    
+.primo {
+  padding-top:40px;
+  
+}
+.new {
+    padding-top:2rem;
+}
+.primo {
+    margin-top: 5rem;
 }
