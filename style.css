@@ -2,42 +2,84 @@
     background-color:#F6F8F9;
     margin: 0px;
 }
+.immagine{
+    vertical-align: middle;
+}
 
 
 
 
 .site_header {
-    background-image: url(./img/logo\ copia.png);
-    background-repeat: no-repeat;
+    
     box-sizing: border-box;
     background-color: white;
+    padding: 20px;
+
+    
    
     
     
 }
 h1 {
-    margin-left: 60px;
-    padding-top: 10px;
-    padding-bottom: 20px;
+    margin:0px;
+    vertical-align:middle;
+    
+    display:inline-block
+    
     
     
     
 }
 .site_main {
-    text-align: center;
-    margin: auto;
+    
+    vertical-align: top;
+    
+    margin: 50px auto 0;
     background-color:white;
+    width: 700px;
+}
     
     
     
     
 .primo {
-  padding-top:40px;
+    padding: 15px 50px;
+  
   
 }
 .new {
-    padding-top:2rem;
+    padding-top: 1.5rem;
+   
 }
-.primo {
-    margin-top: 5rem;
+.primo1 {
+    
+    
+}
+h3{
+    
+}
+.bott{
+    display: inline-block ;
+    padding: 10px 15px;
+    background-color: blue;
+    border-radius: 10px;
+    
+
+}
+.bott2 {
+    display: inline-block ;
+    padding:10px 15px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.ciao{
+    
+}
+.ciao1 {
+    
+}
+ul {
+    list-style-type: none;
 }
